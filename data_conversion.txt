@@ -2,7 +2,7 @@
 python program
 
 ####mongodb to csv
-mongoexport
+mongoexport --db <dbname> --collection <collectionname> --out <filename.csv>
 
 ####csv into stata
 3.2 import delimited command

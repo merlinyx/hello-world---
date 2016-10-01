@@ -1,0 +1,20 @@
+####crawler to mongodb
+python program
+
+####mongodb to csv
+mongoexport
+
+####csv into stata
+3.2 import delimited command
+The following section is based on material originally written by James Hardin, University of South Carolina, and Ted Anagnoson, California State Los Angeles.
+
+Launch Excel and read in your Excel file.
+Save as a text file (tab delimited or comma delimited) by selecting File and clicking Save As. If the original filename is filename.xls, then save the file under the name filename.txt or filename.csv. (Use the Save as type list—specifying an extension such as .txt is not sufficient to produce a text file.)
+Quit Excel if you wish.
+Launch Stata if it is not already running. (If Stata is already running, then either save or clear your current data.)
+In Stata, type import delimited using filename.ext, where filename.ext is the name of the file that you just saved in Excel. Give the complete filename, including the extension.
+In Stata, type compress.
+Save the data as a Stata dataset using the save command.
+
+------
+Just in case that I searched for these stuff again. :D

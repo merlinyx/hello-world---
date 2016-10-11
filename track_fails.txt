@@ -1,0 +1,21 @@
+ Took longer than an hour: 
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '华能济南黄台发电有限公司', '37010002491', '370100', 
+ '119.164.252.34:8403', '2016')
+ 
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '光大环保能源（济南）有限公司', '37012503349', '370100', 
+ '119.164.252.34:8403', '2016')
+ 
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10201d518>, 
+ '山东钢铁股份有限公司济南分公司', '37011202570', '370100', 
+ '119.164.252.34:8403', '2016')
+ 
+ Requeued:
+ write_data.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '广场东沟中水站', '37010003108', '370100', 
+ '119.164.252.34:8403', '2016') 

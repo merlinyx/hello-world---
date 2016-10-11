@@ -23,6 +23,11 @@
 Don't know why:
  data2014.write_one_company(
  <requests.sessions.Session object at 0x10281d518>, 
+ '济南圣泉集团股份有限公司', '37018102510', '370100', 
+ '119.164.252.34:8403', '2016')
+
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
  '华电章丘发电有限公司', '37018103104', '370100', 
  '119.164.252.34:8403', '2016')
  

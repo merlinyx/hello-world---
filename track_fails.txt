@@ -19,3 +19,29 @@
  <requests.sessions.Session object at 0x10281d518>, 
  '广场东沟中水站', '37010003108', '370100', 
  '119.164.252.34:8403', '2016') 
+
+Don't know why:
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '华电章丘发电有限公司', '37018103104', '370100', 
+ '119.164.252.34:8403', '2016')
+ 
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '山东晋煤日月化工有限公司', '37018103105', '370100', 
+ '119.164.252.34:8403', '2016') 
+ 
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '章丘市污水处理厂', '37018103090', '370100', 
+ '119.164.252.34:8403', '2016')
+ 
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '青岛市团岛污水处理厂', '37020201762', '370200', 
+ '219.147.6.195:8403', '2016') 
+ 
+ data2014.write_one_company(
+ <requests.sessions.Session object at 0x10281d518>, 
+ '华电青岛发电有限公司', '37020501890', '370200', 
+ '219.147.6.195:8403', '2016') 

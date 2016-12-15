@@ -12,3 +12,8 @@ but I guess it is already existent it's just I haven't searched for it
 Well, this is just a too audacious hope. Or maybe not? who knows.
 
 5. I hope all digital devices will become eyes-friendly.
+
+-------
+12/15/16
+want to make an interactive visualization of CU courses with dependencies (prereqs) as a DAG
+using some js tool maybe threejs 

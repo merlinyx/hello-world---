@@ -1,0 +1,19 @@
+1. (based on the oxform cam api) Have your face become bigger today?
+use the face data to calculate the area of face and compare results with the day before
+
+2. build an app for showing hours of school libraries and other facilities
+because it's annoying when you need to go to school websites everytime you want to know the hours of a lib
+especially when on holidays and sometimes it is not even correct online
+
+3. a to do list with a function to set the importance of the task
+but I guess it is already existent it's just I haven't searched for it
+
+4. I genuinely hope there will be a better AI personal assistant. My life will be much easier with someone like that. 
+Well, this is just a too audacious hope. Or maybe not? who knows.
+
+5. I hope all digital devices will become eyes-friendly.
+
+-------
+12/15/16
+want to make an interactive visualization of CU courses with dependencies (prereqs) as a DAG
+using some js tool maybe threejs 
